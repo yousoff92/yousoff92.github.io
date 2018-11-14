@@ -1,0 +1,25 @@
+[
+    {"name" : "Java", "category" : "Programming Language", "experience" : "75", "interest" : "75"},
+    {"name" : "Javascript", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Python", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "R", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Matlab", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Mathematica", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "C/C++", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+
+
+
+    {"name" : "SQL", "category" : "Scripting Language", "experience" : "70", "interest" : "80"},
+    {"name" : "Bash", "category" : "Scripting Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Batch", "category" : "Scripting Language", "experience" : "60", "interest" : "90"},
+
+    {"name" : "Magnolia", "category" : "Content Management", "experience" : "60", "interest" : "90"},
+    {"name" : "Liferay", "category" : "Content Management", "experience" : "60", "interest" : "90"},
+
+    {"name" : "MySQL", "category" : "RDBMS", "experience" : "60", "interest" : "90"},
+    {"name" : "Oracle", "category" : "RDBMS", "experience" : "60", "interest" : "90"},
+    {"name" : "MSSQL", "category" : "RDBMS", "experience" : "60", "interest" : "90"},
+
+    {"name" : "HTML", "category" : "Web Application", "experience" : "60", "interest" : "90"},
+    {"name" : "CSS", "category" : "Web Application", "experience" : "60", "interest" : "90"}
+]
