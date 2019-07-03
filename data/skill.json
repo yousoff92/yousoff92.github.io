@@ -10,12 +10,12 @@
     {"name" : "Dart", "category" : "Programming Language", "experience" : "70", "interest" : "90"},
     {"name" : "Latex", "category" : "Programming Language", "experience" : "70", "interest" : "80"},
     {"name" : "Visual Basic", "category" : "Programming Language", "experience" : "60", "interest" : "60"},
-    {"name" : "Typescript", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Typescript", "category" : "Programming Language", "experience" : "30", "interest" : "50"},
     {"name" : "Gscript", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
 
     {"name" : "Perl", "category" : "Scripting Language", "experience" : "40", "interest" : "60"},
     {"name" : "SQL", "category" : "Scripting Language", "experience" : "80", "interest" : "80"},
-    {"name" : "Bash", "category" : "Scripting Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Bash", "category" : "Scripting Language", "experience" : "80", "interest" : "90"},
     {"name" : "Batch", "category" : "Scripting Language", "experience" : "60", "interest" : "90"},
 
     {"name" : "Magnolia", "category" : "Content Management", "experience" : "70", "interest" : "90"},
@@ -30,8 +30,8 @@
     {"name" : "CSS", "category" : "Web Application", "experience" : "80", "interest" : "90"},
     {"name" : "JSP", "category" : "Web Application", "experience" : "80", "interest" : "90"},
 
-    {"name" : "Apache Cordova", "category" : "Mobile Application", "experience" : "70", "interest" : "70"},
-    {"name" : "Ionic", "category" : "Mobile Application", "experience" : "60", "interest" : "60"},
+    {"name" : "Apache Cordova", "category" : "Mobile Application", "experience" : "50", "interest" : "70"},
+    {"name" : "Ionic", "category" : "Mobile Application", "experience" : "50", "interest" : "60"},
     {"name" : "Flutter", "category" : "Mobile Application", "experience" : "60", "interest" : "100"},
 
     {"name" : "AJAX", "category" : "JS Framework", "experience" : "75", "interest" : "90"},
@@ -47,33 +47,35 @@
     {"name" : "Apache POI", "category" : "Java Utility", "experience" : "80", "interest" : "90"},
     {"name" : "Apache JMeter", "category" : "Testing Tools", "experience" : "75", "interest" : "90"},
     {"name" : "Apache Maven", "category" : "Java Utility", "experience" : "75", "interest" : "100"},
-    {"name" : "Project Lombok", "category" : "Java Library", "experience" : "80", "interest" : "100"},
+    {"name" : "Apache Kafka", "category" : "Streaming Platform", "experience" : "30", "interest" : "100"},
+    {"name" : "Project Lombok", "category" : "Java Library", "experience" : "90", "interest" : "100"},
     {"name" : "Jasper Report", "category" : "Java Reporting Tool", "experience" : "70", "interest" : "80"},
     {"name" : "Jasper ETL", "category" : "Integration Framework", "experience" : "80", "interest" : "80"},
-    {"name" : "Mule ESB", "category" : "Integration Framework", "experience" : "80", "interest" : "80"},
+    {"name" : "Mule ESB", "category" : "Integration Framework", "experience" : "40", "interest" : "80"},
     
-    {"name" : "REST", "category" : "Web Service", "experience" : "80", "interest" : "80"},
+    {"name" : "REST", "category" : "Web Service", "experience" : "90", "interest" : "80"},
     {"name" : "SOAP", "category" : "Web Service", "experience" : "60", "interest" : "50"},
 
     {"name" : "ZK", "category" : "AJAX Framework", "experience" : "75", "interest" : "80"},
 
     {"name" : "Git", "category" : "Version Control", "experience" : "80", "interest" : "100"},
-    {"name" : "Subversion", "category" : "Version Control", "experience" : "75", "interest" : "80"},
+    {"name" : "Subversion", "category" : "Version Control", "experience" : "65", "interest" : "80"},
 
     {"name" : "Freemarker", "category" : "Templating Language", "experience" : "70", "interest" : "70"},
     {"name" : "Velocimacro", "category" : "Templating Language", "experience" : "40", "interest" : "30"},
 
     {"name" : "Docker", "category" : "Virtualization", "experience" : "60", "interest" : "100"},
+    {"name" : "Kubernetes", "category" : "Virtualization", "experience" : "35", "interest" : "100"},
     {"name" : "VMWare", "category" : "Virtualization", "experience" : "60", "interest" : "50"},
     {"name" : "VirtualBox", "category" : "Virtualization", "experience" : "60", "interest" : "60"},
 
     {"name" : "Firebase", "category" : "Cloud Platform", "experience" : "70", "interest" : "90"},
     {"name" : "Google App Engine", "category" : "Cloud Platform", "experience" : "50", "interest" : "60"},
-    {"name" : "AWS", "category" : "Cloud Platform", "experience" : "30", "interest" : "50"},
+    {"name" : "AWS", "category" : "Cloud Platform", "experience" : "30", "interest" : "70"},
 
     {"name" : "Eclipse", "category" : "IDE", "experience" : "80", "interest" : "100"},
     {"name" : "Visual Studio", "category" : "IDE", "experience" : "50", "interest" : "40"},
-    {"name" : "Visual Studio Code", "category" : "IDE", "experience" : "70", "interest" : "100"},
+    {"name" : "Visual Studio Code", "category" : "IDE", "experience" : "90", "interest" : "100"},
     {"name" : "RStudio", "category" : "IDE", "experience" : "60", "interest" : "40"},
     {"name" : "TexStudio", "category" : "IDE", "experience" : "70", "interest" : "100"},
     {"name" : "SPyder", "category" : "IDE", "experience" : "60", "interest" : "40"},
@@ -92,8 +94,9 @@
 
     {"name" : "Windows", "category" : "OS Platform", "experience" : "70", "interest" : "100"}, 
     {"name" : "Linux", "category" : "OS Platform", "experience" : "70", "interest" : "100"}, 
+    {"name" : "RancherOS", "category" : "OS Platform", "experience" : "30", "interest" : "90"}, 
     {"name" : "MacOS", "category" : "OS Platform", "experience" : "60", "interest" : "80"}, 
-    {"name" : "Android", "category" : "OS Platform", "experience" : "60", "interest" : "100"},
+    {"name" : "Android", "category" : "OS Platform", "experience" : "40", "interest" : "100"},
     {"name" : "IBM MobileFirst", "category" : "Server/Platform", "experience" : "60", "interest" : "100"},
     {"name" : "iOS", "category" : "OS Platform", "experience" : "40", "interest" : "50"}
 ]
