@@ -12,6 +12,7 @@
     {"name" : "Visual Basic", "category" : "Programming Language", "experience" : "60", "interest" : "60"},
     {"name" : "Typescript", "category" : "Programming Language", "experience" : "30", "interest" : "50"},
     {"name" : "Gscript", "category" : "Programming Language", "experience" : "60", "interest" : "90"},
+    {"name" : "Gosu", "category" : "Programming Language", "experience" : "45", "interest" : "70"},
 
     {"name" : "Perl", "category" : "Scripting Language", "experience" : "40", "interest" : "60"},
     {"name" : "SQL", "category" : "Scripting Language", "experience" : "80", "interest" : "80"},
@@ -37,7 +38,7 @@
     {"name" : "AJAX", "category" : "JS Framework", "experience" : "75", "interest" : "90"},
     {"name" : "JQuery", "category" : "JS Framework", "experience" : "75", "interest" : "90"},
     {"name" : "JQuery Mobile", "category" : "JS Framework", "experience" : "75", "interest" : "40"},
-    {"name" : "AngularJs", "category" : "JS Framework", "experience" : "70", "interest" : "80"},
+    {"name" : "Angular", "category" : "JS Framework", "experience" : "60", "interest" : "80"},
     {"name" : "NodeJs", "category" : "JS Framework", "experience" : "75", "interest" : "100"},
 
     {"name" : "Spring", "category" : "Java Framework", "experience" : "70", "interest" : "90"},
@@ -47,7 +48,8 @@
     {"name" : "Apache POI", "category" : "Java Utility", "experience" : "80", "interest" : "90"},
     {"name" : "Apache JMeter", "category" : "Testing Tools", "experience" : "75", "interest" : "90"},
     {"name" : "Apache Maven", "category" : "Java Utility", "experience" : "75", "interest" : "100"},
-    {"name" : "Apache Kafka", "category" : "Streaming Platform", "experience" : "30", "interest" : "100"},
+    {"name" : "Apache Kafka", "category" : "Messaging", "experience" : "30", "interest" : "100"},
+    {"name" : "Apache ActiveMQ", "category" : "Messaging", "experience" : "30", "interest" : "40"},
     {"name" : "Project Lombok", "category" : "Java Library", "experience" : "90", "interest" : "100"},
     {"name" : "Jasper Report", "category" : "Java Reporting Tool", "experience" : "70", "interest" : "80"},
     {"name" : "Jasper ETL", "category" : "Integration Framework", "experience" : "80", "interest" : "80"},
@@ -55,6 +57,7 @@
     
     {"name" : "REST", "category" : "Web Service", "experience" : "90", "interest" : "80"},
     {"name" : "SOAP", "category" : "Web Service", "experience" : "60", "interest" : "50"},
+    {"name" : "Swagger", "category" : "Web Service", "experience" : "70", "interest" : "100"},
 
     {"name" : "ZK", "category" : "AJAX Framework", "experience" : "75", "interest" : "80"},
 
@@ -84,13 +87,22 @@
     {"name" : "XCode", "category" : "IDE", "experience" : "60", "interest" : "60"},
     {"name" : "MySQL Workbench", "category" : "IDE", "experience" : "60", "interest" : "70"},
     {"name" : "SQL Developer", "category" : "IDE", "experience" : "60", "interest" : "80"},
+    {"name" : "SMSS", "category" : "IDE", "experience" : "30", "interest" : "30"},
+    {"name" : "IntelliJ", "category" : "IDE", "experience" : "50", "interest" : "50"},
 
     {"name" : "Gephi", "category" : "Visualization", "experience" : "60", "interest" : "60"},
     {"name" : "Jenkins", "category" : "Continuous Integration", "experience" : "60", "interest" : "100"},
     {"name" : "Anaconda", "category" : "Python Distribution", "experience" : "60", "interest" : "100"}, 
     {"name" : "Jira", "category" : "Project Management", "experience" : "70", "interest" : "100"}, 
     {"name" : "Gitlab", "category" : "Repository Management", "experience" : "70", "interest" : "100"}, 
-    {"name" : "VisualSVN", "category" : "Repository Management", "experience" : "70", "interest" : "100"}, 
+    {"name" : "VisualSVN", "category" : "Repository Management", "experience" : "70", "interest" : "100"},
+    {"name" : "SourceTree", "category" : "Repository Management", "experience" : "30", "interest" : "100"}, 
+    {"name" : "Confluence", "category" : "Project Management", "experience" : "70", "interest" : "100"}, 
+    {"name" : "Salesforce", "category" : "CRM", "experience" : "30", "interest" : "70"}, 
+    {"name" : "Workday", "category" : "Management", "experience" : "25", "interest" : "100"},
+
+    {"name" : "ELK Stack", "category" : "Log Analyzer", "experience" : "25", "interest" : "100"}, 
+    {"name" : "Sumo Logic", "category" : "Log Analyzer", "experience" : "20", "interest" : "100"}, 
 
     {"name" : "Windows", "category" : "OS Platform", "experience" : "70", "interest" : "100"}, 
     {"name" : "Linux", "category" : "OS Platform", "experience" : "70", "interest" : "100"}, 
@@ -98,5 +110,11 @@
     {"name" : "MacOS", "category" : "OS Platform", "experience" : "60", "interest" : "80"}, 
     {"name" : "Android", "category" : "OS Platform", "experience" : "40", "interest" : "100"},
     {"name" : "IBM MobileFirst", "category" : "Server/Platform", "experience" : "60", "interest" : "100"},
-    {"name" : "iOS", "category" : "OS Platform", "experience" : "40", "interest" : "50"}
+    {"name" : "iOS", "category" : "OS Platform", "experience" : "40", "interest" : "50"},
+
+    {"name" : "Skype", "category" : "Communication", "experience" : "70", "interest" : "80"},
+    {"name" : "Slack", "category" : "Communication", "experience" : "45", "interest" : "100"},
+
+    {"name" : "PagerDuty", "category" : "Incident Management", "experience" : "10", "interest" : "40"},
+    {"name" : "Okta", "category" : "SSO", "experience" : "10", "interest" : "100"}
 ]
